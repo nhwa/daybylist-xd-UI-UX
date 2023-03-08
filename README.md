@@ -20,7 +20,7 @@ Day By List
 
 <br />
 
-#### Day By List UI/UX
+### Day By List UI/UX
 
 ![Group 1](https://user-images.githubusercontent.com/44343908/223723080-c33d77bf-9a0a-407b-aa24-298d8ca24ed5.png)   
 <br />
