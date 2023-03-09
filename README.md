@@ -2,6 +2,11 @@ Day By List
 =============
 ### To-Do List App UX/UI Design Project
 
+#### Adobe XD 시연 링크
+> https://xd.adobe.com/view/6fd27868-9a6f-4962-6d1f-edbca98c6d7d-19e3/?fullscreen&hints=off
+> https://xd.adobe.com/view/6fd27868-9a6f-4962-6d1f-edbca98c6d7d-19e3/grid/?hints=off
+
+
 #### 사용자 인터페이스 맵
 ![image](https://user-images.githubusercontent.com/44343908/223713388-a4c3dd0a-7164-45af-9d77-2b26979e4ce0.png)
 
