@@ -9,6 +9,9 @@ Day By List
 
 #### 사용자 인터페이스 맵
 ![image](https://user-images.githubusercontent.com/44343908/223713388-a4c3dd0a-7164-45af-9d77-2b26979e4ce0.png)
+<br />
+![daybylist_main](https://user-images.githubusercontent.com/44343908/224376423-0913fe3c-1ef9-4489-adb1-38ff3c47de67.PNG)
+
 
 
 #### SKILL
